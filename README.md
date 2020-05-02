@@ -1,8 +1,7 @@
 # Subtitle renamer
 Pseudo automatically rename subtitles with movies' name
 
-# Usage : 
-
+## Usage :
 ```sh
 usage: rename_subtitles.py [-h] -d DIRECTORY -s SUBTITLE_EXT -e EPISODE_EXT --regex-episode REGEX_EPISODE --regex-subtitle REGEX_SUBTITLE
 
@@ -15,6 +14,7 @@ optional arguments:
   --regex-subtitle REGEX_SUBTITLE
 ```
 
+## Example : 
 Given the following files :
 ```sh
 /media/tv_shows/LegallyObtainedTVShow S03E07 wwwww.mkv
